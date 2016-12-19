@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application</string>
+    <string name="HelloWorld">Bonjour tout le monde!!</string>
+    <string name="Button">Nouveau bouton</string>
+    <string name="sentence">Tu fais rien non ?  </string>
+    <string name="toast"> Hey, ça toast ?</string>
+    <string name="toast2">Toujours avec une biere</string>
+</resources>
